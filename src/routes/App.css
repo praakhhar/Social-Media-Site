@@ -1,0 +1,38 @@
+.main-container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.side-bar{
+  min-height:695px;
+  width: 100px;
+}
+
+.my-post{
+  margin: 20px;
+  width: 80%;
+}
+
+.my-tag{
+  margin: 5px;
+}
+
+.my-form{
+  margin: 30px;
+  width: 80%;
+  color: rgb(8, 11, 10);
+}
+
+.my-login{
+  
+  width: 200px;
+  margin-top: 100px;
+}
+.flex-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
